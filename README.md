@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @W3irdev
+- 👋 Hi, I’m Jose Miguel
 - 👀 I’m interested in cybersecurity and programming.
 - 🌱 I’m currently learning python.
 
