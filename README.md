@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Miguel</h1>
 <h3 align="center">I’m interested in cybersecurity and programming.</h3>
+<h4 align="center">[eJPT][PCEP][CCNAR&S]</h4>
 
 - 🌱 I’m currently learning **Python, Java.**
 
