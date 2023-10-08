@@ -2,7 +2,7 @@
 <h3 align="center">I’m interested in cybersecurity and programming.</h3>
 <h4 align="center">[eJPT][PCEP][CCNAR&S]</h4>
 
-- 🌱 I’m currently learning **Python, Java.**
+- 🌱 I’m currently learning **Java, JavaScript**
 
 - HTB Profile **https://app.hackthebox.com/profile/835441**
 
